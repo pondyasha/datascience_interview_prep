@@ -11,7 +11,7 @@ We discuss every possible question we might encounter in data science interview.
 
 ### Explain gradient descent like I am 5
 
-    Say you want to increase the speed of your toy car and you magically happen to find a helper who helps you to try different things like changing the wheels, upgrading the remote etc. Gradient descent is like a magic helper who lets you try different things to improve your machine by giving better equations and numbers. You input these equations in to your machine to get accurate predictions for things like weather it will rain tomorrow or not, weather your teacher eats a chocolate or not :P Eventually, the magic helper will help you find a best way by giving you certain hints like adjusting wheels, weight and gear to increase the speed of your toy car
+Say you want to increase the speed of your toy car and you magically happen to find a helper who helps you to try different things like changing the wheels, upgrading the remote etc. Gradient descent is like a magic helper who lets you try different things to improve your machine by giving better equations and numbers. You input these equations in to your machine to get accurate predictions for things like weather it will rain tomorrow or not, weather your teacher eats a chocolate or not :P Eventually, the magic helper will help you find a best way by giving you certain hints like adjusting wheels, weight and gear to increase the speed of your toy car
     
 
 
