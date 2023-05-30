@@ -1,5 +1,5 @@
 # Data Science Interview Prep
-We discuss every possible question we might encounter in data science interview. Theory questions are discussed in readme file and the problems are in .ipynb file
+We discuss every possible question we might encounter in data science interview. Theory questions are discussed in readme file and the problems are in .ipynb file. Bonus: you can expect ELI5 kind of answers 
 
 ## What is gradient descent and why is it useful in Machine Learning
 
